@@ -1,0 +1,39 @@
+﻿1. Description:
+
+
+PROBLEM STATEMENT: 
+
+
+Money Laundering is one of the biggest challenges that each bank is facing today.   
+Criminals and terrorist earn “dirty” money by means of illegal activities like drug 
+trafficking and terrorist funding and then by means of “launders” to “clean” their money.
+
+
+“Identifying Suspicious Transaction from the newly Transaction Data between
+Banks and Financial Institution.” 
+
+
+SOLUTION:
+
+
+        Most of the financial companies and banks have “Anti-money-laundering”(AML) policies
+in place to detect and prevent this activity. But these online banking and cryptocurrencies made it easier for them to launder their dirty money into clean money.
+People are now becoming more technology dependent like Cashless, UPI, etc.
+So, It is the biggest issue to resolve and there are millions and billions of transactions happening day to day from banks to financial institutions. So Tracking of such a large Transaction history and finding out some suspicious pattern between some of those transactions is out of Human Capability.
+
+
+So, our main idea is to Clean, Preprocess those past transaction history and trained our model based on some Machine Learning or Deep Learning Algorithm, so that our model is capable of looking, searching and predicting some transaction as Suspicious and then any organization can follow and can prevent such crime before it’s Execution.
+  
+
+2.  Contents of my Project Directory:
+
+
+        # Still working on it.
+
+
+
+
+3. Ways to host your project on the localhost:
+
+
+        # Still Working on it
